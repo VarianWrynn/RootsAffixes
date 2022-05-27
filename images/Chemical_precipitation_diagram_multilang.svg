@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="550" version="1.1">
+ <path d="m526.73 163.2v238.21c0 27.659-22.267 49.926-49.926 49.926-27.659 0-49.926-22.267-49.926-49.926v-238.21z" fill="#ffc" stroke="#000" stroke-linecap="round" stroke-width="1.1476"/>
+ <path d="m476.87 403.96c-24.038 0-44.107 3.3943-48.904 7.916 4.7833 22.603 24.762 39.467 48.83 39.467 24.107 0 44.111-16.917 48.854-39.574-4.9991-4.4678-24.932-7.8086-48.779-7.8086z" fill="#00f"/>
+ <path d="m172.89 163.2v238.21c0 27.659-22.267 49.926-49.926 49.926-27.659 0-49.926-22.267-49.926-49.926v-238.21z" fill="#bfe6bf" stroke="#000" stroke-linecap="round" stroke-width="1.1476"/>
+ <path d="m349.73 163.2v238.21c0 27.659-22.267 49.926-49.926 49.926-27.659 0-49.926-22.267-49.926-49.926v-238.21z" fill="#ebffcc" stroke="#000" stroke-linecap="round" stroke-width="1.1476"/>
+ <path d="m299.84 437.59a21.746 14.234 0 0 0-20.434 9.4238c6.2223 2.7743 13.119 4.3281 20.395 4.3281 7.322 0 14.258-1.573 20.512-4.3809a21.746 14.234 0 0 0-20.438-9.3711 21.746 14.234 0 0 0-0.0352 0z" fill="#00f"/>
+ <g id="a" transform="translate(-.818 7.27)">
+  <g id="e">
+   <circle id="b" cx="264" cy="175" r="3" fill="#00f"/>
+   <use transform="translate(22.9,-1.64)" xlink:href="#b"/>
+   <use transform="translate(20.5,11)" xlink:href="#b"/>
+  </g>
+  <use transform="matrix(1,0,0,-1,48.3,359)" xlink:href="#e"/>
+ </g>
+ <use transform="translate(2.86,130)" xlink:href="#a"/>
+ <g id="d" transform="translate(2.86,11.8)">
+  <use transform="rotate(-90,313,231)" xlink:href="#a"/>
+  <use transform="rotate(-90,345,203)" xlink:href="#a"/>
+  <use transform="matrix(0,1,1,0,112,-63.5)" xlink:href="#a"/>
+ </g>
+ <use transform="translate(-2.05,129)" xlink:href="#d"/>
+ <g fill="#00f" stroke="#000" stroke-linecap="round" stroke-width="2">
+  <path d="m99.9 67.1 36 141"/>
+  <path d="m275 334-157.83 157.63"/>
+  <path d="m304 448 155.09 39.2"/>
+  <path d="m485 438 8.18 48.5"/>
+  <path d="m512 67.1-36 141"/>
+ </g>
+ <use transform="translate(353.8)" xlink:href="#c"/>
+ <g id="c" transform="translate(277.83)" fill="none" stroke="#000" stroke-linecap="round">
+  <path d="m-104.95 118.06v283.35c0 27.659-22.267 49.926-49.926 49.926-27.659 0-49.926-22.267-49.926-49.926v-283.35" stroke-width="1.1476"/>
+  <ellipse cx="-154.8" cy="118.06" rx="50" ry="10"/>
+ </g>
+ <use transform="translate(176.8)" xlink:href="#c"/>
+ <g font-family="DejaVu Sans" font-size="30">
+  <switch transform="translate(25,57)">
+   <text systemLanguage="en" id="trsvg69"><tspan id="trsvg1">Solution</tspan></text>
+   <text systemLanguage="as" id="trsvg70"><tspan id="trsvg2">দ্ৰৱণ</tspan></text>
+   <text systemLanguage="bn" id="trsvg71"><tspan id="trsvg3">দ্রবণ</tspan></text>
+   <text systemLanguage="de" id="trsvg72"><tspan id="trsvg4">Lösung</tspan></text>
+   <text systemLanguage="gu" id="trsvg73"><tspan id="trsvg5">દ્રાવણ </tspan></text>
+   <text systemLanguage="es" id="trsvg74"><tspan id="trsvg6">Disolución</tspan></text>
+   <text systemLanguage="id" id="trsvg75"><tspan id="trsvg7">Larutan</tspan></text>
+   <text systemLanguage="it" id="trsvg76"><tspan id="trsvg8">Soluzione</tspan></text>
+   <text systemLanguage="kn" id="trsvg77"><tspan id="trsvg9">ದ್ರಾವಣ</tspan></text>
+   <text systemLanguage="te" id="trsvg78"><tspan id="trsvg10">ద్రావణము</tspan></text>
+   <text systemLanguage="ml" id="trsvg79"><tspan id="trsvg11">ലായനി</tspan></text>
+   <text systemLanguage="ta" id="trsvg80"><tspan id="trsvg12">கரைசல்</tspan></text>
+   <text systemLanguage="pa" id="trsvg81"><tspan id="trsvg13">ਘੋਲ</tspan></text>
+   <text systemLanguage="ru" id="trsvg82"><tspan id="trsvg14">Раствор</tspan></text>
+   <text systemLanguage="cs" id="trsvg83"><tspan id="trsvg15">Roztok</tspan></text>
+   <text systemLanguage="ro" id="trsvg84"><tspan id="trsvg16">Soluție</tspan></text>
+   
+  <text id="trsvg85-nl" systemLanguage="nl"><tspan id="trsvg17-nl">oplossing</tspan></text><text id="trsvg85-fr" systemLanguage="fr"><tspan id="trsvg17-fr">Solution</tspan></text><text id="trsvg85"><tspan id="trsvg17">Solution</tspan></text></switch>
+  <switch transform="translate(25,518)">
+   <text systemLanguage="en" id="trsvg86"><tspan id="trsvg18">Suspension</tspan></text>
+   <text systemLanguage="as" id="trsvg87"><tspan id="trsvg19">সংপৃক্ত দ্ৰৱণ</tspan></text>
+   <text systemLanguage="bn" id="trsvg88"><tspan id="trsvg20">সম্পৃক্ত দ্রবণ</tspan></text>
+   <text systemLanguage="de" id="trsvg89"><tspan id="trsvg21">Suspension</tspan></text>
+   <text systemLanguage="gu" id="trsvg90"><tspan id="trsvg22">નિલંબન</tspan></text>
+   <text systemLanguage="es" id="trsvg91"><tspan id="trsvg23">Suspensión</tspan></text>
+   <text systemLanguage="id" id="trsvg92"><tspan id="trsvg24">Suspensi</tspan></text>
+   <text systemLanguage="it" id="trsvg93"><tspan id="trsvg25">Sospensione</tspan></text>
+   <text systemLanguage="kn" id="trsvg94"><tspan id="trsvg26">ದ್ರಾವಣದ ಅಂಟುಜಲ</tspan></text>
+   <text systemLanguage="te" id="trsvg95"><tspan id="trsvg27">నిలుపుదల</tspan></text>
+   <text systemLanguage="ml" id="trsvg96"><tspan id="trsvg28">ഭ്രംശനം</tspan></text>
+   <text systemLanguage="ta" id="trsvg97"><tspan id="trsvg29">தொங்கற்கூழ்</tspan></text>
+   <text systemLanguage="pa" id="trsvg98"><tspan id="trsvg30">ਲਟਕਾਅ</tspan></text>
+   <text systemLanguage="ru" id="trsvg99"><tspan id="trsvg31">Суспензия</tspan></text>
+   <text systemLanguage="cs" id="trsvg100"><tspan id="trsvg32">Suspenze</tspan></text>
+   <text systemLanguage="ro" id="trsvg101"><tspan id="trsvg33">Suspensie</tspan></text>
+   
+  <text id="trsvg102-nl" systemLanguage="nl"><tspan id="trsvg34-nl">suspensie</tspan></text><text id="trsvg102-fr" systemLanguage="fr"><tspan id="trsvg34-fr">Suspension</tspan></text><text id="trsvg102"><tspan id="trsvg34">Suspension</tspan></text></switch>
+  <switch transform="translate(580,57)" text-anchor="end">
+   <text systemLanguage="en" id="trsvg103"><tspan id="trsvg35">Supernate</tspan></text>
+   <text systemLanguage="as" id="trsvg104"><tspan id="trsvg36">দ্ৰাৱক</tspan></text>
+   <text systemLanguage="bn" id="trsvg105"><tspan id="trsvg37">দ্রাবক</tspan></text>
+   <text systemLanguage="de" id="trsvg106"><tspan id="trsvg38">Überstand</tspan></text>
+   <text systemLanguage="gu" id="trsvg107"><tspan id="trsvg39">અધિપ્લવ </tspan></text>
+   <text systemLanguage="es" id="trsvg108"><tspan id="trsvg40">Sobrenadante</tspan></text>
+   <text systemLanguage="id" id="trsvg109"><tspan id="trsvg41">Supernatan</tspan></text>
+   <text systemLanguage="it" id="trsvg110"><tspan id="trsvg42">Supernatante</tspan></text>
+   <text systemLanguage="kn" id="trsvg111"><tspan id="trsvg43">ದ್ರಾವಣದ ತಿ</tspan></text>
+   <text systemLanguage="te" id="trsvg112"><tspan id="trsvg44">పైనితేలెడు</tspan></text>
+   <text systemLanguage="ml" id="trsvg113"><tspan id="trsvg45">സൂപ്പര്‍നേറ്റ്</tspan></text>
+   <text systemLanguage="ta" id="trsvg114"><tspan id="trsvg46">தெளிந்த நீ</tspan></text>
+   <text systemLanguage="pa" id="trsvg115"><tspan id="trsvg47">ਨਿੱਤਰਿਆ ਹੋਇਆ ਤਰਲ</tspan></text>
+   <text systemLanguage="ru" id="trsvg116"><tspan id="trsvg48">Супернатант</tspan></text>
+   <text systemLanguage="cs" id="trsvg117"><tspan id="trsvg49">Supernatant</tspan></text>
+   <text systemLanguage="ro" id="trsvg118"><tspan id="trsvg50">Supernatant</tspan></text>
+   
+  <text id="trsvg119-nl" systemLanguage="nl"><tspan id="trsvg51-nl">supernatant</tspan></text><text id="trsvg119-fr" systemLanguage="fr"><tspan id="trsvg51-fr">Surnageant</tspan></text><text id="trsvg119"><tspan id="trsvg51">Supernate</tspan></text></switch>
+  <switch transform="translate(580,518)" text-anchor="end">
+   <text systemLanguage="en" id="trsvg120"><tspan id="trsvg52">Precipitate</tspan></text>
+   <text systemLanguage="as" id="trsvg121"><tspan id="trsvg53">সংপৃক্ত দ্ৰৱণ</tspan></text>
+   <text systemLanguage="bn" id="trsvg122"><tspan id="trsvg54">অদ্রবণীর দ্রব্য</tspan></text>
+   <text systemLanguage="de" id="trsvg123"><tspan id="trsvg55">Präzipitat</tspan></text>
+   <text systemLanguage="gu" id="trsvg124"><tspan id="trsvg56">અવક્ષેપ </tspan></text>
+   <text systemLanguage="es" id="trsvg125"><tspan id="trsvg57">Precipitado</tspan></text>
+   <text systemLanguage="id" id="trsvg126"><tspan id="trsvg58">Endapan</tspan></text>
+   <text systemLanguage="it" id="trsvg127"><tspan id="trsvg59">Precipiatato</tspan></text>
+   <text systemLanguage="kn" id="trsvg128"><tspan id="trsvg60">ದ್ರಾವಕದ ತಳಪಾಕ </tspan></text>
+   <text systemLanguage="te" id="trsvg129"><tspan id="trsvg61">అవక్షేపం</tspan></text>
+   <text systemLanguage="ml" id="trsvg130"><tspan id="trsvg62">അവക്ഷിപ്തം</tspan></text>
+   <text systemLanguage="ta" id="trsvg131"><tspan id="trsvg63">வீழ்படிவு</tspan></text>
+   <text systemLanguage="pa" id="trsvg132"><tspan id="trsvg64">ਤਲਛੱਟ</tspan></text>
+   <text systemLanguage="ru" id="trsvg133"><tspan id="trsvg65">Преципитат</tspan></text>
+   <text systemLanguage="cs" id="trsvg134"><tspan id="trsvg66">Sraženina</tspan></text>
+   <text systemLanguage="ro" id="trsvg135"><tspan id="trsvg67">Precipitat</tspan></text>
+   
+  <text id="trsvg136-nl" systemLanguage="nl"><tspan id="trsvg68-nl">neerslag</tspan></text><text id="trsvg136-fr" systemLanguage="fr"><tspan id="trsvg68-fr">Précipité</tspan></text><text id="trsvg136"><tspan id="trsvg68">Precipitate</tspan></text></switch>
+ </g>
+</svg>
